@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win5077.site4now.net:21/growfurthers</_PublishTargetUrl>
+    <History>False|2023-08-28T14:05:46.3577448Z;False|2023-08-28T19:08:59.2947694+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnectionString">
+      <Value>Data Source=SQL5109.site4now.net%3bInitial Catalog=db_a9c1ce_growfurther%3bUser Id=db_a9c1ce_growfurther_admin%3bPassword=growfurther01</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="GrowFurthers.Models.dbContext">
+      <Value>Data Source=SQL5109.site4now.net%3bInitial Catalog=db_a9c1ce_growfurther%3bUser Id=db_a9c1ce_growfurther_admin%3bPassword=growfurther01</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

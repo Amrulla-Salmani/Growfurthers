@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2023-08-28T13:47:46.2593499Z;False|2023-08-28T19:07:56.3171990+05:30;True|2023-08-28T18:51:40.0807519+05:30;False|2023-08-28T18:48:20.2406402+05:30;False|2023-08-28T18:44:38.6487078+05:30;False|2023-08-28T18:42:16.9219698+05:30;True|2023-07-13T02:04:12.1419311+05:30;True|2023-07-13T01:44:39.9092744+05:30;False|2023-07-13T01:42:58.4598809+05:30;True|2023-07-13T01:23:50.8933291+05:30;False|2023-07-13T01:22:53.1349258+05:30;True|2023-07-13T01:16:17.4913706+05:30;True|2023-07-13T01:00:33.2673886+05:30;True|2023-07-12T14:16:42.1794648+05:30;True|2023-07-12T00:05:56.2247843+05:30;False|2023-07-11T23:58:47.1761031+05:30;False|2023-07-11T23:57:38.7838911+05:30;True|2023-07-11T23:53:35.4798968+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnectionString">
+      <Value>Data Source=SQL5109.site4now.net%3bInitial Catalog=db_a9c1ce_growfurther%3bUser Id=db_a9c1ce_growfurther_admin%3bPassword=growfurther01%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
